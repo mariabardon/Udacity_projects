@@ -6,6 +6,6 @@ P1 - [Dog Breed Identification](https://github.com/mariabardon/nanodegree-deep-l
 
 P2 - [TV Script Generation](https://github.com/mariabardon/nanodegree-deep-learning/tree/master/Project_3_TV_Script_Generation)
 
-P3 - [Face Generation](https://github.com/mariabardon/nanodegree-deep-learning/Project_4_Face_Generation)
+P3 - [Face Generation](https://github.com/mariabardon/nanodegree-deep-learning/tree/master/Project_4_Face_Generation)
 
 P4 - [Sentiment Analisys](https://github.com/mariabardon/nanodegree-deep-learning/blob/master/Project_5_Sagemaker_Deployment)
