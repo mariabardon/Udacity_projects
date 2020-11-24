@@ -11,4 +11,4 @@ P3 - [Face Generation](https://github.com/mariabardon/nanodegree-deep-learning/t
 P4 - [Sentiment Analisys](https://github.com/mariabardon/nanodegree-deep-learning/blob/master/Project_5_Sagemaker_Deployment)
 
 ## Computer Vision
-P1 - [Facial Keypoints](/nanodegree_computer_vision/Project_1_Facial_Keypoints/)
+P1 - [Facial Keypoints](https://github.com/mariabardon/nanodegree_computer_vision/Project_1_Facial_Keypoints/)
