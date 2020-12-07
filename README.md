@@ -12,3 +12,5 @@ P4 - [Sentiment Analisys](https://github.com/mariabardon/nanodegree-deep-learnin
 
 ## Computer Vision
 P1 - [Facial Keypoints](https://github.com/mariabardon/nanodegree_computer_vision/tree/main/Project_1_Facial_Keypoints)
+
+P2 - [Image Captioning] (https://github.com/mariabardon/nanodegree_computer_vision/tree/main/Project_2_Image_Captioning)
