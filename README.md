@@ -16,3 +16,10 @@ P1 - [Facial Keypoints](https://github.com/mariabardon/nanodegree_computer_visio
 P2 - [Image Captioning](https://github.com/mariabardon/nanodegree_computer_vision/tree/main/Project_2_Image_Captioning)
 
 P3 - [Landmark Detection](https://github.com/mariabardon/nanodegree_computer_vision/tree/main/Project_4_Landmark_Detection)
+
+## Natural Language Processing
+P1 - [Part of Speach Tagging with Hidden Markov Models](https://github.com/mariabardon/nanodegree-nlp/blob/master/Project_1_HMM_Tagger)
+
+P2 - [Machine Translation Project](https://github.com/mariabardon/nanodegree-nlp/tree/master/Project_2_Machine_Translation)
+
+P3 - [Voice User Interface](https://github.com/mariabardon/nanodegree-nlp/tree/master/Project_3_Voice_User_Interface)
